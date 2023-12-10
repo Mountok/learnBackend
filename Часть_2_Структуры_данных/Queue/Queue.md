@@ -1,6 +1,6 @@
 ###### [Home][домой]/queue
 
-# Очередь (Queue)
+# <span style='color: #47f5ff;'>Очередь (Queue)
 
 ![Alt text](Queue.png)
 
